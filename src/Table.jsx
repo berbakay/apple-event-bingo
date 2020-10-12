@@ -10,7 +10,7 @@ class BingoTable extends React.Component {
         {name:'Eddy Cue', isChecked:false},{name:'iPhone 12 Pro Max', isChecked:false},
         {name:'Airtags', isChecked:false},{name:'Best iPhone yet', isChecked:false}],
         [{name:'Augmented Reality Demo', isChecked:false},{name:'Wireless Charging Mat', isChecked:false},
-        {name:'Free Square', isChecked:false},{name:'Best Camera in a Smart Phone', isChecked:false},
+        {name:'Free Square', isChecked:true},{name:'Best Camera in a Smart Phone', isChecked:false},
         {name:'Smaller Notch', isChecked:false}],[{name:'Silicon Macs', isChecked:false},
         {name:'AirPods', isChecked:false},{name:'Touch ID in Unlock Button', isChecked:false},
         {name:'Craig Federighi', isChecked:false},{name:'120hz', isChecked:false}],
