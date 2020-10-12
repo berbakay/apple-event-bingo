@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/apple-event-bingo/static/css/main.ad8d70b6.chunk.css",
-    "main.js": "/apple-event-bingo/static/js/main.759ba61b.chunk.js",
-    "main.js.map": "/apple-event-bingo/static/js/main.759ba61b.chunk.js.map",
+    "main.js": "/apple-event-bingo/static/js/main.5e5cc2cd.chunk.js",
+    "main.js.map": "/apple-event-bingo/static/js/main.5e5cc2cd.chunk.js.map",
     "runtime-main.js": "/apple-event-bingo/static/js/runtime-main.e544afd1.js",
     "runtime-main.js.map": "/apple-event-bingo/static/js/runtime-main.e544afd1.js.map",
     "static/js/2.7893bd5a.chunk.js": "/apple-event-bingo/static/js/2.7893bd5a.chunk.js",
     "static/js/2.7893bd5a.chunk.js.map": "/apple-event-bingo/static/js/2.7893bd5a.chunk.js.map",
     "index.html": "/apple-event-bingo/index.html",
-    "precache-manifest.050ef51b108d60f6aa48643641c7b94a.js": "/apple-event-bingo/precache-manifest.050ef51b108d60f6aa48643641c7b94a.js",
+    "precache-manifest.cf69745c5c67b94d4b75e0e639842da2.js": "/apple-event-bingo/precache-manifest.cf69745c5c67b94d4b75e0e639842da2.js",
     "service-worker.js": "/apple-event-bingo/service-worker.js",
     "static/css/main.ad8d70b6.chunk.css.map": "/apple-event-bingo/static/css/main.ad8d70b6.chunk.css.map",
     "static/js/2.7893bd5a.chunk.js.LICENSE.txt": "/apple-event-bingo/static/js/2.7893bd5a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e544afd1.js",
     "static/js/2.7893bd5a.chunk.js",
     "static/css/main.ad8d70b6.chunk.css",
-    "static/js/main.759ba61b.chunk.js"
+    "static/js/main.5e5cc2cd.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2f9036d8c1e8604d1bad517cff00d39",
+    "revision": "89e13aa1c09c0e21a42b97735c735f21",
     "url": "/apple-event-bingo/index.html"
   },
   {
-    "revision": "83bfc8300ce0166a7b0e",
+    "revision": "4c12e9fba8c61de1aaac",
     "url": "/apple-event-bingo/static/css/main.ad8d70b6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apple-event-bingo/static/js/2.7893bd5a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83bfc8300ce0166a7b0e",
-    "url": "/apple-event-bingo/static/js/main.759ba61b.chunk.js"
+    "revision": "4c12e9fba8c61de1aaac",
+    "url": "/apple-event-bingo/static/js/main.5e5cc2cd.chunk.js"
   },
   {
     "revision": "7bf8a570fa9238a14fec",
